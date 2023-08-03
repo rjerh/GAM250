@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8b2e1a533813f2640919c963a390b48a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tracker: {instanceID: 0}
+  - particlePrefab: {instanceID: 0}
+  - boom: {instanceID: 0}
+  - clip: {fileID: 8300000, guid: ce4e1f7e518f27c4e8f0149bd893b08d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
